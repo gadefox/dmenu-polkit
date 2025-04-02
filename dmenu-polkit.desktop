@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dmenu polkit agent
+Keywords=polkit;polkit agent;dmenu;
+Exec=dmenu-polkit
